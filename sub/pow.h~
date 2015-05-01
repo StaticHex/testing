@@ -1,0 +1,6 @@
+#ifndef SPOW
+#define SPOW 
+
+int spow(int base, int exp);
+
+#endif
