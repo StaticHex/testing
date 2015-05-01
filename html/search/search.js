@@ -7,8 +7,8 @@
 
 var indexSectionsWithContent =
 {
-  0: "dmrs",
-  1: "dr",
+  0: "dmprs",
+  1: "dpr",
   2: "ms",
   3: "r"
 };
